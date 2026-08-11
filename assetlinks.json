@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.evo.gpscompassnavigator",
+      "sha256_cert_fingerprints": [
+        "E6:91:3D:A0:BE:8E:5D:A8:C0:F1:6B:85:96:9F:E8:A4:F1:08:0C:61:87:C9:85:F3:71:8B:D8:B5:28:92:74:9F"
+      ]
+    }
+  }
+]
