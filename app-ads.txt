@@ -1,6 +1,43 @@
 google.com, pub-2092484449427154, DIRECT, f08c47fec0942fa0
 
 
+pokkt.com, 6246, RESELLER, c45702d9311e25fd
+programmaticx.ai, 84448, RESELLER, b42d42eb28400efa
+smartclip.net, 14679, RESELLER
+stroeer.com, 17379, RESELLER
+anzu.io, 691e95644e633a6eee2567ee, RESELLER
+bid-matrix.com, f2c71a45ea149366, RESELLER
+bluexad.ai, 1996418805747683328, RESELLER
+start.io, 197760873, RESELLER
+themediagrid.com, falino, RESELLER, 9fac4a4a87c2a44f
+themediagrid.com, b8n9yh, RESELLER, 35d5010d7789b49d
+themediagrid.com, jvhg38, RESELLER, 9fac4a4a87c2a44f
+triplelift.com, 14594, RESELLER, 6c33edb13117fd86
+triplelift.com, 14705, RESELLER, 6c33edb13117fd86
+triplelift.com, 14127, RESELLER, 6c33edb13117fd86
+triplelift.com, 14709, RESELLER, 6c33edb13117fd86
+triplelift.com, 13883, RESELLER, 6c33edb13117fd86
+triplelift.com, 14798, RESELLER, 6c33edb13117fd86
+triplelift.com, 6998, RESELLER, 6c33edb13117fd86
+triplelift.com, 14705-eb, RESELLER
+triplelift.com, 14716, RESELLER, 6c33edb13117fd86
+unity.com, 109475959, DIRECT, 96cabb5fbdde37a7
+video.unrulymedia.com, 144138083, RESELLER
+video.unrulymedia.com, 703273072, RESELLER
+video.unrulymedia.com, 389957698, RESELLER
+video.unrulymedia.com, 201313863, RESELLER
+video.unrulymedia.com, 290726769, RESELLER
+video.unrulymedia.com, 657436911, RESELLER
+appnexus.com, 14230, RESELLER, f5ab79cb980f11d1
+appnexus.com, 6849, RESELLER
+appnexus.com, 11826, RESELLER, f5ab79cb980f11d1
+appnexus.com, 17779, RESELLER
+google.com, pub-1682595508078257, RESELLER, f08c47fec0942fa0
+google.com, pub-2923085774557613, RESELLER, f08c47fec0942fa0
+google.com, pub-5060663379040713, RESELLER, f08c47fec0942fa0
+google.com, pub-3990748024667386, RESELLER, f08c47fec0942fa0
+odeeo.io, 118848844, RESELLER, 36cfd73091d5c3fc
+opera.com, pub6148735850944, RESELLER, 55a0c5fd61378de3
 pubmatic.com, 159501, RESELLER, 5d62403b186f2ace
 pubmatic.com, 160318, RESELLER, 5d62403b186f2ace
 pubmatic.com, 163117, RESELLER, 5d62403b186f2ace
@@ -86,36 +123,3 @@ connekt.ai, 5585919044, RESELLER
 ignitemediatech.com, pub_11115, RESELLER
 improvedigital.com, 2297, RESELLER
 improvedigital.com, 2464, RESELLER
-pokkt.com, 6246, RESELLER, c45702d9311e25fd
-programmaticx.ai, 84448, RESELLER, b42d42eb28400efa
-smartclip.net, 14679, RESELLER
-stroeer.com, 17379, RESELLER
-anzu.io, 691e95644e633a6eee2567ee, RESELLER
-bid-matrix.com, f2c71a45ea149366, RESELLER
-bluexad.ai, 1996418805747683328, RESELLER
-start.io, 197760873, RESELLER
-themediagrid.com, falino, RESELLER, 9fac4a4a87c2a44f
-themediagrid.com, b8n9yh, RESELLER, 35d5010d7789b49d
-themediagrid.com, jvhg38, RESELLER, 9fac4a4a87c2a44f
-triplelift.com, 14594, RESELLER, 6c33edb13117fd86
-triplelift.com, 14705, RESELLER, 6c33edb13117fd86
-triplelift.com, 14127, RESELLER, 6c33edb13117fd86
-triplelift.com, 14709, RESELLER, 6c33edb13117fd86
-triplelift.com, 13883, RESELLER, 6c33edb13117fd86
-triplelift.com, 14798, RESELLER, 6c33edb13117fd86
-triplelift.com, 6998, RESELLER, 6c33edb13117fd86
-triplelift.com, 14705-eb, RESELLER
-triplelift.com, 14716, RESELLER, 6c33edb13117fd86
-unity.com, 109475959, DIRECT, 96cabb5fbdde37a7
-video.unrulymedia.com, 144138083, RESELLER
-video.unrulymedia.com, 703273072, RESELLER
-video.unrulymedia.com, 389957698, RESELLER
-video.unrulymedia.com, 201313863, RESELLER
-video.unrulymedia.com, 290726769, RESELLER
-video.unrulymedia.com, 657436911, RESELLER
-appnexus.com, 14230, RESELLER, f5ab79cb980f11d1
-appnexus.com, 6849, RESELLER
-appnexus.com, 11826, RESELLER, f5ab79cb980f11d1
-appnexus.com, 17779, RESELLER
-odeeo.io, 118848844, RESELLER, 36cfd73091d5c3fc
-opera.com, pub6148735850944, RESELLER, 55a0c5fd61378de3
